@@ -87,3 +87,9 @@ def rotate(grid):
             print(grid[row][col], end="")
         print()
 
+def greet():
+    test = "hello"
+    print("hello print")
+    print(test)
+
+print("i made it")
